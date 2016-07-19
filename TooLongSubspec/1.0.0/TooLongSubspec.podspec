@@ -30,82 +30,82 @@ Pod::Spec.new do |s|
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
-  s.subspec 'AAAAA' do |sp|
+  s.subspec 'AAAAAAAAAA' do |sp|
     sp.source_files = 'TooLongSubspec/Sources/AAAAA.swift'
   end
-  s.subspec 'BBBBB' do |sp|
+  s.subspec 'BBBBBBBBBB' do |sp|
     sp.source_files = 'TooLongSubspec/Sources/BBBBB.swift'
   end
-  s.subspec 'CCCCC' do |sp|
+  s.subspec 'CCCCCCCCCC' do |sp|
     sp.source_files = 'TooLongSubspec/Sources/CCCCC.swift'
   end
-  s.subspec 'DDDDD' do |sp|
+  s.subspec 'DDDDDDDDDD' do |sp|
     sp.source_files = 'TooLongSubspec/Sources/DDDDD.swift'
   end
-  s.subspec 'EEEEE' do |sp|
+  s.subspec 'EEEEEEEEEE' do |sp|
     sp.source_files = 'TooLongSubspec/Sources/EEEEE.swift'
   end
-  s.subspec 'FFFFF' do |sp|
+  s.subspec 'FFFFFFFFFF' do |sp|
     sp.source_files = 'TooLongSubspec/Sources/FFFFF.swift'
   end
-  s.subspec 'GGGGG' do |sp|
+  s.subspec 'GGGGGGGGGG' do |sp|
     sp.source_files = 'TooLongSubspec/Sources/GGGGG.swift'
   end
-  s.subspec 'HHHHH' do |sp|
+  s.subspec 'HHHHHHHHHH' do |sp|
     sp.source_files = 'TooLongSubspec/Sources/HHHHH.swift'
   end
-  s.subspec 'IIIII' do |sp|
+  s.subspec 'IIIIIIIIII' do |sp|
     sp.source_files = 'TooLongSubspec/Sources/IIIII.swift'
   end
-  s.subspec 'JJJJJ' do |sp|
+  s.subspec 'JJJJJJJJJJ' do |sp|
     sp.source_files = 'TooLongSubspec/Sources/JJJJJ.swift'
   end
-  s.subspec 'KKKKK' do |sp|
+  s.subspec 'KKKKKKKKKK' do |sp|
     sp.source_files = 'TooLongSubspec/Sources/KKKKK.swift'
   end
-  s.subspec 'LLLLL' do |sp|
+  s.subspec 'LLLLLLLLLL' do |sp|
     sp.source_files = 'TooLongSubspec/Sources/LLLLL.swift'
   end
-  s.subspec 'MMMMM' do |sp|
+  s.subspec 'MMMMMMMMMM' do |sp|
     sp.source_files = 'TooLongSubspec/Sources/MMMMM.swift'
   end
-  s.subspec 'NNNNN' do |sp|
+  s.subspec 'NNNNNNNNNN' do |sp|
     sp.source_files = 'TooLongSubspec/Sources/NNNNN.swift'
   end
-  s.subspec 'OOOOO' do |sp|
+  s.subspec 'OOOOOOOOOO' do |sp|
     sp.source_files = 'TooLongSubspec/Sources/OOOOO.swift'
   end
-  s.subspec 'PPPPP' do |sp|
+  s.subspec 'PPPPPPPPPP' do |sp|
     sp.source_files = 'TooLongSubspec/Sources/PPPPP.swift'
   end
-  s.subspec 'QQQQQ' do |sp|
+  s.subspec 'QQQQQQQQQQ' do |sp|
     sp.source_files = 'TooLongSubspec/Sources/QQQQQ.swift'
   end
-  s.subspec 'RRRRR' do |sp|
+  s.subspec 'RRRRRRRRRR' do |sp|
     sp.source_files = 'TooLongSubspec/Sources/RRRRR.swift'
   end
-  s.subspec 'SSSSS' do |sp|
+  s.subspec 'SSSSSSSSSS' do |sp|
     sp.source_files = 'TooLongSubspec/Sources/SSSSS.swift'
   end
-  s.subspec 'TTTTT' do |sp|
+  s.subspec 'TTTTTTTTTT' do |sp|
     sp.source_files = 'TooLongSubspec/Sources/TTTTT.swift'
   end
-  s.subspec 'UUUUU' do |sp|
+  s.subspec 'UUUUUUUUUU' do |sp|
     sp.source_files = 'TooLongSubspec/Sources/UUUUU.swift'
   end
-  s.subspec 'VVVVV' do |sp|
+  s.subspec 'VVVVVVVVVV' do |sp|
     sp.source_files = 'TooLongSubspec/Sources/VVVVV.swift'
   end
-  s.subspec 'WWWWW' do |sp|
+  s.subspec 'WWWWWWWWWW' do |sp|
     sp.source_files = 'TooLongSubspec/Sources/WWWWW.swift'
   end
-  s.subspec 'XXXXX' do |sp|
+  s.subspec 'XXXXXXXXXX' do |sp|
     sp.source_files = 'TooLongSubspec/Sources/XXXXX.swift'
   end
-  s.subspec 'YYYYY' do |sp|
+  s.subspec 'YYYYYYYYYY' do |sp|
     sp.source_files = 'TooLongSubspec/Sources/YYYYY.swift'
   end
-  s.subspec 'ZZZZZ' do |sp|
+  s.subspec 'ZZZZZZZZZZ' do |sp|
     sp.source_files = 'TooLongSubspec/Sources/ZZZZZ.swift'
   end
 
